@@ -2,6 +2,10 @@
 
 https://runnable.com/docker/docker-compose-networking
 
+- [Access host from a docker container](https://dev.to/bufferings/access-host-from-a-docker-container-4099)
+
+- [Redes en Docker: exposición de puertos](https://colaboratorio.net/davidochobits/sysadmin/2017/redes-en-docker-exposicion-de-puertos/)
+
 Google: docker compose networks
 
 - [Connecting Containers in Compose](https://medium.com/capital-one-tech/connect-to-a-mysql-docker-container-without-using-a-static-ip-address-2d76a7f933a3)
